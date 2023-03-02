@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="140" alt="Cypress" src="https://i.imgur.com/POFBaqv.jpg">
+  <img alt="Cypress" src="https://i.imgur.com/mxWKasN.png">
 </p>
 
 ## What is cypress-test ?
@@ -24,6 +24,6 @@ Once Node installed, just follow the next steps:
 # Install Cypress
 npm install --save-dev cypress@10.3.0
 
-#Start Cypress UI
+# Start Cypress UI
 npx cypress open
 ```
