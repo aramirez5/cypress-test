@@ -1,0 +1,5 @@
+{
+  "hop": 1,
+  "doggie": 3,
+  "perro dos": 1
+}
