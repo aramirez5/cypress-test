@@ -8,8 +8,8 @@
 for a job interview.
 
 I used the cypress framework to do the challenge, which consists
-of three exercises: the first is an E2E test and the other two 
-are API requests.
+of two exercises: the first is an E2E test and the other is an 
+API requests.
 
 
 ## Building and installation
